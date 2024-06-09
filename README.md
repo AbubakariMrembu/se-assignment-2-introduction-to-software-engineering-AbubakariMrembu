@@ -6,17 +6,39 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
-
+Software Engineering:
 What is software engineering, and how does it differ from traditional programming?
+Software engineering is a systematic, disciplined, and quantifiable approach to the design, development, operation, testing, and maintenance of software. It applies engineering principles to software creation to ensure reliability, efficiency, and scalability.
+
+Difference from traditional programming
+(i)Scope: Traditional programming focuses on coding and immediate problem-solving. Software engineering encompasses the entire software development lifecycle, including requirements analysis, design, testing, and maintenance.
+(ii)Process: Software engineering follows a structured process with defined phases and methodologies (e.g., Agile, Waterfall), whereas traditional programming might not adhere to such formalized processes.
+(iii)Team Collaboration: Software engineering often involves large teams and collaboration across various disciplines, whereas traditional programming can be more individualistic.
+(iv)Documentation: Comprehensive documentation is a key aspect of software engineering to ensure maintainability and knowledge transfer. Traditional programming may lack thorough documentation.
+
 Software Development Life Cycle (SDLC):
-
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+(i)Requirements: Involves Gathering, analyzing and documenting user needs and defining system requirements.
+(ii)Design:Creating architecture and design documents, including data models and interface design
+(iii)Implementation:Actual code development based on design documents
+(iv)Testing:Verifying and validating the software to ensure it meets the specified requirements
+(v)Deployment:Releasing the software to production for end users
+(vi)Maintenance:Performing updates and fixes to ensure the software continues to function correctly and meets changing requirements
+
 Agile vs. Waterfall Models:
-
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-Requirements Engineering:
+Agile model
+(i)Iterative Phases: Development occurs in small, iterative cycles called sprints.
+(ii)Documentation: Focuses on working software over comprehensive documentation.
+(iii)Flexibility: Highly adaptable to changing requirements.
+(iv)Use Cases: Ideal for projects with dynamic requirements, such as software startups or projects involving new technologies.
+waterfall model
+(i)Sequential Phases: Linear progression through SDLC phases.
+(ii)Documentation: Emphasizes thorough documentation.
+(iii)Flexibility: Rigid, with little room for changes once a phase is completed.
+(iv)Use Cases: Suitable for projects with well-defined requirements and low likelihood of change, such as government or manufacturing projects
 
+Requirements Engineering:
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
 
